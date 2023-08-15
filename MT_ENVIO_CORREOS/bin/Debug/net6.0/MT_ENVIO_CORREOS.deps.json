@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "MT_ENVIO_CORREOS/1.0.0": {
+        "runtime": {
+          "MT_ENVIO_CORREOS.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MT_ENVIO_CORREOS/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

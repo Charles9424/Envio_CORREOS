@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "MT_ENVIO_CORREOS": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}

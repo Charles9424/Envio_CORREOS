@@ -1,0 +1,15 @@
+C:\Desarrollo\Consola\MT_ENVIO_CORREOS\MT_ENVIO_CORREOS\bin\Debug\net6.0\MT_ENVIO_CORREOS.exe
+C:\Desarrollo\Consola\MT_ENVIO_CORREOS\MT_ENVIO_CORREOS\bin\Debug\net6.0\MT_ENVIO_CORREOS.deps.json
+C:\Desarrollo\Consola\MT_ENVIO_CORREOS\MT_ENVIO_CORREOS\bin\Debug\net6.0\MT_ENVIO_CORREOS.runtimeconfig.json
+C:\Desarrollo\Consola\MT_ENVIO_CORREOS\MT_ENVIO_CORREOS\bin\Debug\net6.0\MT_ENVIO_CORREOS.dll
+C:\Desarrollo\Consola\MT_ENVIO_CORREOS\MT_ENVIO_CORREOS\bin\Debug\net6.0\MT_ENVIO_CORREOS.pdb
+C:\Desarrollo\Consola\MT_ENVIO_CORREOS\MT_ENVIO_CORREOS\obj\Debug\net6.0\MT_ENVIO_CORREOS.csproj.AssemblyReference.cache
+C:\Desarrollo\Consola\MT_ENVIO_CORREOS\MT_ENVIO_CORREOS\obj\Debug\net6.0\MT_ENVIO_CORREOS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Desarrollo\Consola\MT_ENVIO_CORREOS\MT_ENVIO_CORREOS\obj\Debug\net6.0\MT_ENVIO_CORREOS.AssemblyInfoInputs.cache
+C:\Desarrollo\Consola\MT_ENVIO_CORREOS\MT_ENVIO_CORREOS\obj\Debug\net6.0\MT_ENVIO_CORREOS.AssemblyInfo.cs
+C:\Desarrollo\Consola\MT_ENVIO_CORREOS\MT_ENVIO_CORREOS\obj\Debug\net6.0\MT_ENVIO_CORREOS.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Consola\MT_ENVIO_CORREOS\MT_ENVIO_CORREOS\obj\Debug\net6.0\MT_ENVIO_CORREOS.dll
+C:\Desarrollo\Consola\MT_ENVIO_CORREOS\MT_ENVIO_CORREOS\obj\Debug\net6.0\refint\MT_ENVIO_CORREOS.dll
+C:\Desarrollo\Consola\MT_ENVIO_CORREOS\MT_ENVIO_CORREOS\obj\Debug\net6.0\MT_ENVIO_CORREOS.pdb
+C:\Desarrollo\Consola\MT_ENVIO_CORREOS\MT_ENVIO_CORREOS\obj\Debug\net6.0\MT_ENVIO_CORREOS.genruntimeconfig.cache
+C:\Desarrollo\Consola\MT_ENVIO_CORREOS\MT_ENVIO_CORREOS\obj\Debug\net6.0\ref\MT_ENVIO_CORREOS.dll

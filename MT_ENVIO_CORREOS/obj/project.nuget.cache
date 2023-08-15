@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ypZwTCDtN/+ZjV3XOUOnSNqXpiOJuQPjMxpy5SbVCGhJL18xgiCQu1tIOZo2x5FZkEnBLoSkDFdKSOynArcWWg==",
+  "success": true,
+  "projectFilePath": "C:\\Desarrollo\\Consola\\MT_ENVIO_CORREOS\\MT_ENVIO_CORREOS\\MT_ENVIO_CORREOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.0\\microsoft.visualstudio.azure.containers.tools.targets.1.17.0.nupkg.sha512"
+  ],
+  "logs": []
+}
