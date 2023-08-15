@@ -8,7 +8,7 @@ WORKDIR /app
 
 FROM mcr.microsoft.com/dotnet/sdk:6.0 AS build
 WORKDIR /src
-COPY ["MT_ENVIO_CORREOS/MT_ENVIO_CORREOS.csproj", "MT_ENVIO_CORREOS/"]
+COPY ["MT_ENVIO_CORREOS.csproj", "MT_ENVIO_CORREOS/"]
 RUN dotnet restore "MT_ENVIO_CORREOS.csproj"
 COPY . .
 WORKDIR "/src/MT_ENVIO_CORREOS"
